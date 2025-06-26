@@ -30,10 +30,10 @@ Contact
   <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Project link</th></tr>
   <tr>
     <td>Telangana Overall Growth Analysis Report</td>
-    <td>Comprehensive Power BI report analyzing 4 years of retail sales data (₹15M+ revenue, 10K+ orders) across Tamil Nadu. Provides actionable insights for inventory planning, staffing optimization, and market expansion strategies.</td>
-    <td>Interactive dashboards, Regional analysis, Seasonal trends, Discount optimization, Category performance metrics</td>
-    <td>Power BI, DAX, Data Modeling, Statistical Analysis, SQL, Excel</td>
-    <td><a href="#" target="_blank">View Repository</a></td>
+    <td>EDA and report analyzing different aspects of the state data (vehicals used, challans, employee counts in different fields, farmer schemes, property schemes) across Telangana. Provides actionable insights for growth of the state in each field.</td>
+    <td>Analysis in the Jupyter Notebook, Registration Revenue accross districts, Potenial Improvements in farmer schemes, Youth Empowerment in Agriculture.</td>
+    <td>Jupyter notebook, Pandas, Matplotlib, Seaborn, SQL, Excel</td>
+    <td><a href="https://github.com/anthonyrodrigues443/Data-Analysis-Projects/tree/main/Telangana_Overall_Growth_Analysis" target="_blank">View Project</a></td>
   </tr>
 </table>
 
