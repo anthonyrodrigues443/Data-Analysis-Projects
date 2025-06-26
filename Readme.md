@@ -24,8 +24,8 @@ Contact
     <td>Power BI, DAX, Data Modeling, Statistical Analysis, SQL, Excel</td>
     <td><a href="#" target="_blank">View Repository</a></td>
   </tr>
-  
-  <tr><th colspan="5"><h2>Business Intelligence & Dashboard Projects</h2></th></tr>
+
+  <tr><th colspan="5"><h2>Data Analytics & Business Intelligence Projects</h2></th></tr>
   <tr><th colspan="5"><h3>RETAIL ANALYTICS</h3></th></tr>
   <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
