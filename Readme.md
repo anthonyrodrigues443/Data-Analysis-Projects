@@ -11,10 +11,10 @@ Contact
 </b></pre>
 <br>
 <h2>🎯 Overview</h2>
-<b>This repository serves as an index for my data analysis projects. Each project demonstrates different aspects of data analysis from exploratory data analysis to business intelligence dashboards. The projects cover various domains including retail, finance, healthcare, and social media analytics.</b>
+<b>This repository serves as an index for my data analysis projects. Each project demonstrates different aspects of data analysis, from exploratory data analysis to business intelligence dashboards. The projects cover various domains including retail, finance, healthcare, and social media analytics.</b>
 <br><br><br>
 <table>
-  <tr><th colspan="5"><h2>Business Intelligence & Dashboard Projects</h2></th></tr>
+  <tr><th colspan="5"><h2>Data Analytics & Business Intelligence Projects</h2></th></tr>
   <tr><th colspan="5"><h3>RETAIL ANALYTICS</h3></th></tr>
   <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
@@ -25,9 +25,9 @@ Contact
     <td><a href="#" target="_blank">View Repository</a></td>
   </tr>
 
-  <tr><th colspan="5"><h2>Data Analytics & Business Intelligence Projects</h2></th></tr>
+
   <tr><th colspan="5"><h3>RETAIL ANALYTICS</h3></th></tr>
-  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
+  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Project link</th></tr>
   <tr>
     <td>DMart Sales Analysis Report</td>
     <td>Comprehensive Power BI report analyzing 4 years of retail sales data (₹15M+ revenue, 10K+ orders) across Tamil Nadu. Provides actionable insights for inventory planning, staffing optimization, and market expansion strategies.</td>
