@@ -22,7 +22,7 @@ Contact
     <td>Comprehensive Power BI report analyzing 4 years of retail sales data (₹15M+ revenue, 10K+ orders) across Tamil Nadu. Provides actionable insights for inventory planning, staffing optimization, and market expansion strategies.</td>
     <td>Interactive dashboards, Regional analysis, Seasonal trends, Discount optimization, Category performance metrics</td>
     <td>Power BI, DAX, Data Modeling, Statistical Analysis, SQL, Excel</td>
-    <td><a href="https://github.com/anthonyrodrigues443/Data-Analysis-Projects/tree/main/DMart_Sales_Analysis" target="_blank">View Repository</a></td>
+    <td><a href="https://github.com/anthonyrodrigues443/Data-Analysis-Projects/tree/main/DMart_Sales_Analysis" target="_blank">View Project</a></td>
   </tr>
 
 
